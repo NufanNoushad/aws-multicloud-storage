@@ -1,0 +1,28 @@
+# AWS Multicloud Storage Project
+
+## Overview
+This project demonstrates hands-on experience with **AWS S3** and **Google Cloud Storage**, focusing on multi-cloud data transfer and management. The goal is to learn practical cloud infrastructure deployment, storage strategies, and integration between multiple cloud providers.
+
+## Objectives
+- Understand AWS S3 and Google Cloud Storage fundamentals.
+- Implement data transfer strategies between AWS and Google Cloud.
+- Explore multi-cloud management best practices.
+- Gain experience with cloud storage automation.
+
+## Features
+- Create and manage AWS S3 buckets.
+- Transfer data between AWS S3 and Google Cloud Storage.
+- Handle multi-cloud storage configurations.
+- Documentation for project setup and execution.
+
+## Documentation
+The full project documentation is available online:  
+[View PDF Documentation](https://docs.google.com/viewer?url=https://learn.nextwork.org/daring_lavender_zesty_iara/projects/aws-multicloud-storage/document.pdf)
+
+## Tools & Technologies
+- AWS S3
+- Google Cloud Storage
+
+## Author
+Nufan Mohamed
+
