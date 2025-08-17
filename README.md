@@ -26,6 +26,5 @@ My full project documentation is available online:
 - AWS S3
 - Google Cloud Storage
 
-## Author
-Nufan Mohamed
-
+## Conclusion
+This project offered valuable hands-on experience in managing and transferring data between multiple cloud platforms. I gained practical skills in configuring and managing AWS S3 and Google Cloud Storage, implementing multi-cloud data transfer strategies, and understanding overall cloud infrastructure workflows. Working on this project strengthened my knowledge of cloud computing best practices and prepared me for more advanced cloud engineering or DevOps projects.
