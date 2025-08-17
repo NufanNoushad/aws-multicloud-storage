@@ -1,5 +1,8 @@
 # AWS Multicloud Storage Project
 
+## Architecture
+<img width="1081" height="594" alt="architecture-annotated" src="https://github.com/user-attachments/assets/101afe40-a9f2-43ff-b288-2488ef8b137c" />
+
 ## Overview
 This project demonstrates hands-on experience with **AWS S3** and **Google Cloud Storage**, focusing on multi-cloud data transfer and management. The goal is to learn practical cloud infrastructure deployment, storage strategies, and integration between multiple cloud providers.
 
