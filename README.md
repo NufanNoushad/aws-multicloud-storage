@@ -19,7 +19,7 @@ This project demonstrates hands-on experience with **AWS S3** and **Google Cloud
 - Documentation for project setup and execution.
 
 ## Documentation
-The full project documentation is available online:  
+My full project documentation is available online:  
 [View PDF Documentation](https://docs.google.com/viewer?url=https://learn.nextwork.org/daring_lavender_zesty_iara/projects/aws-multicloud-storage/document.pdf)
 
 ## Tools & Technologies
